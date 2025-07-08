@@ -6,3 +6,4 @@ var age = 23
 var a = 123
 var b = 456
 let c = true
+var d = 789
